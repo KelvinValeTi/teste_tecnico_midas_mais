@@ -2,7 +2,7 @@
 Teste técnico da empresa midas mais
 Candidato: Kelvin Vale dos Anjos
 
-#Exercício 1
+# Exercício 1
 
 ![popup](https://github.com/user-attachments/assets/97bde3fc-d78a-47ad-9e53-ef2626206d52)
 
